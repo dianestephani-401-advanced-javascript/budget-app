@@ -1,3 +1,10 @@
+# Budget App
+
+## Author: Diane Stephani
+
+## Project Overview
+A React application that allows users to enter their expenses by amount and category, and track their monthly spending.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
