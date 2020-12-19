@@ -3,7 +3,7 @@
 ## Author: Diane Stephani
 
 ## Project Overview
-A React application that allows users to enter their expenses by amount and category, and track their monthly spending.
+A React application that allows users to enter their expenses by amount and category, and track their spending.
 
 # Getting Started with Create React App
 
